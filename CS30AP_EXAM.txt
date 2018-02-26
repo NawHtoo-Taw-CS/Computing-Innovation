@@ -1,0 +1,58 @@
+Row 1: https://www.youtube.com/watch?v=SvsY-gomznA
+
+
+2A-Row 2:  This Application's main purpose is communication,
+bringing the world more closer together and be more conntected with
+our friends, our family or loved ones even if they are too far away, 
+an example would be a different country. 
+
+2B- :Facebook was made with many different computing systems, the operating system
+Mark used to build facebook was Linux, the server he used was Apache, the DataBbase was MySQL
+and the scripting language he used was PHP.
+
+2C-Row 3-4-5: Communication is very important to us as humans, we do 
+communicate to get jobs done and we communicate to learn more about 
+others there are many positives effects but also negatives of internet 
+communication. Facebook allows you to keep in touch with family and 
+friends that live far away, with instant messaging and video chat 
+you can share information across the world, it can keep you updated
+about them too. There are also negative effects of facebook, you can 
+get bullied on it, Facebook is very good for communicating but some people
+use it as a weapon to weaken or mistreat another user on facebook, they 
+can harass you and keep creating new accounts even if you blocked them,
+alot of teens gets bullied on facebook whether that would be their looks,
+skin color, or IQ level. Online communication is taking the 21st century
+by storm, more than ever people has been talking to other people on an electronic
+screen than talking to them in person using facebook is basically in our daily
+lives. Facebook, online chats and communication applications has made people
+less active in real life, it has made people want to talk electronically rather than 
+an in real life converstation, and this negatively impacts their social life. it has also 
+positively impacted individuals and society, people from across the world use facebook 
+to talk to their family and this communication is free and much easier to talk rather than
+visiting them across the ocean.
+
+2DRow 6-7:Facebook uses data from feedback, after using the video chats or texting app, 
+facebook asks for a feedback, and if the person writes a feedback to facebook, they use
+this data/information to see what people want, after they would transform and implement the 
+data into future updates so it pleases their users, and it should run smoother, bugs fixed
+and most of all more choices and options to communicate with another person. Facebook has 
+benefited alot some people but has also harmed them too, once in a while a hacker 
+seems to have tresspassed the facebook data security systems, after 
+doing that the hacker can choose expose the persons information whether that would 
+be a location, a secret or information in generaland they can use this to hurt the 
+individuals character.
+
+
+2ERow 8:Nick Barricella "The Positive and Negative Effects of Facebook" turbofuture.com
+        June 13, 2012
+        <https://turbofuture.com/internet/The-Positive-and-Negative-Effects-of-Facebook>
+       
+	Chad Brooks "unexpected ways Facebook is beneficial" businessnewsdaily.com
+	May 16,2012
+	<https://www.businessnewsdaily.com/2534-facebook-benefits.html>
+
+	Nicholas Carlson "Story of How Facebook Was Founded" businessinsider.com
+	March 5,2010
+	<http://www.businessinsider.com/how-facebook-was-founded-2010-3>
+
+
